@@ -26,3 +26,10 @@ jobs:
         env:
           MINIFLUX_API_KEY: ${{ secrets.MINIFLUX_API_KEY }}
         run: python generate_readme.py
+
+      - name: Commit changed files
+        uses: stefanzweifel/git-auto-commit-action@v2.3.0
+        with:
+          commit_message: update branch
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
