@@ -24,7 +24,7 @@ with open(target_file, "a") as f:
         feed_url = list_key['feed_url']
         site_url = list_key['site_url']
         temp =  (f"""- Title: {title} 
-        - URL: [{site_url}]({site_url})
-        - RSS: [{feed_url}]({feed_url})
+        \n\t- URL: [{site_url}]({site_url})
+        \n\t- RSS: [{feed_url}]({feed_url})
 """)
         f.write(temp)
