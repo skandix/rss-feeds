@@ -1,5 +1,5 @@
 # rss feeds
-> generated: 2024-04-02 01:54:08.136672
+> generated: 2024-04-02 02:01:40.490303
 
 - Kashyap’s blog 
         
@@ -226,67 +226,67 @@
 	- URL: [https://den.dev/](https://den.dev/)
         
 	- RSS: [https://den.dev/index.xml](https://den.dev/index.xml)
-- https://blog.cloudflare.com/rss/ 
+- blog.cloudflare 
         
 	- URL: [https://blog.cloudflare.com/rss/](https://blog.cloudflare.com/rss/)
         
 	- RSS: [https://blog.cloudflare.com/rss/](https://blog.cloudflare.com/rss/)
-- https://blog.jessfraz.com/index.xml 
+- blog.jessfraz 
         
 	- URL: [https://blog.jessfraz.com/index.xml](https://blog.jessfraz.com/index.xml)
         
 	- RSS: [https://blog.jessfraz.com/index.xml](https://blog.jessfraz.com/index.xml)
-- https://carolynvanslyck.com/blog/index.xml 
+- carolynvanslyck 
         
 	- URL: [https://carolynvanslyck.com/blog/index.xml](https://carolynvanslyck.com/blog/index.xml)
         
 	- RSS: [https://carolynvanslyck.com/blog/index.xml](https://carolynvanslyck.com/blog/index.xml)
-- https://christine.website/blog.rss 
+- christine 
         
 	- URL: [https://christine.website/blog.rss](https://christine.website/blog.rss)
         
 	- RSS: [https://christine.website/blog.rss](https://christine.website/blog.rss)
-- https://danluu.com/atom/index.xml 
+- danluu 
         
 	- URL: [https://danluu.com/atom/index.xml](https://danluu.com/atom/index.xml)
         
 	- RSS: [https://danluu.com/atom.xml](https://danluu.com/atom.xml)
-- https://lucperkins.dev/blog/index.xml 
+- lucperkins 
         
 	- URL: [https://lucperkins.dev/blog/index.xml](https://lucperkins.dev/blog/index.xml)
         
 	- RSS: [https://lucperkins.dev/blog/index.xml](https://lucperkins.dev/blog/index.xml)
-- https://lwn.net/headlines/newrss 
+- lwn 
         
 	- URL: [https://lwn.net/headlines/newrss](https://lwn.net/headlines/newrss)
         
 	- RSS: [https://lwn.net/headlines/newrss](https://lwn.net/headlines/newrss)
-- https://medium.com/feed/strava-engineering 
+- medium 
         
 	- URL: [https://medium.com/feed/strava-engineering](https://medium.com/feed/strava-engineering)
         
 	- RSS: [https://medium.com/feed/strava-engineering](https://medium.com/feed/strava-engineering)
-- https://netflixtechblog.com/feed 
+- netflixtechblog 
         
 	- URL: [https://netflixtechblog.com/feed](https://netflixtechblog.com/feed)
         
 	- RSS: [https://netflixtechblog.com/feed](https://netflixtechblog.com/feed)
-- https://nrkbeta.no/feed/ 
+- nrkbeta 
         
 	- URL: [https://nrkbeta.no/feed/](https://nrkbeta.no/feed/)
         
 	- RSS: [https://nrkbeta.no/feed/](https://nrkbeta.no/feed/)
-- https://ryan.himmelwright.net/post/index.xml 
+- ryan.himmelwright 
         
 	- URL: [https://ryan.himmelwright.net/post/index.xml](https://ryan.himmelwright.net/post/index.xml)
         
 	- RSS: [https://ryan.himmelwright.net/post/index.xml](https://ryan.himmelwright.net/post/index.xml)
-- https://www.matteomalvica.com/index.xml 
+- matteomalvica 
         
 	- URL: [https://www.matteomalvica.com/index.xml](https://www.matteomalvica.com/index.xml)
         
 	- RSS: [https://www.matteomalvica.com/index.xml](https://www.matteomalvica.com/index.xml)
-- https://www.vice.com/en/rss/section/tech?locale=en_us 
+- vice 
         
 	- URL: [https://www.vice.com/en/rss/section/tech?locale=en_us](https://www.vice.com/en/rss/section/tech?locale=en_us)
         
