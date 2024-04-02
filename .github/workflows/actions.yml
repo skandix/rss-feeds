@@ -15,8 +15,7 @@ jobs:
       - name: setup python
         uses: actions/setup-python@v4
         with:
-          ref: ${{ github.head_ref }}
-        with:
+          #ref: ${{ github.head_ref }}
           python-version: '3.11'
 
       - name: install python packages
