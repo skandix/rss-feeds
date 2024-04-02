@@ -23,7 +23,7 @@ with open(target_file, "a") as f:
         title = list_key['title']
         feed_url = list_key['feed_url']
         site_url = list_key['site_url']
-        temp =  (f"""- Title: {title} 
+        temp =  (f"""- {title} 
         \n\t- URL: [{site_url}]({site_url})
         \n\t- RSS: [{feed_url}]({feed_url})
 """)
