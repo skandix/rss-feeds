@@ -1,5 +1,5 @@
 # rss feeds
-> generated: 2024-04-08 00:19:13.583774
+> generated: 2024-04-15 02:35:07.491322
 
 - Kashyap’s blog 
         
@@ -11,6 +11,11 @@
 	- URL: [https://moth.monster/blog/](https://moth.monster/blog/)
         
 	- RSS: [https://moth.monster/blog/feed.xml](https://moth.monster/blog/feed.xml)
+- Peterbe.com 
+        
+	- URL: [https://www.peterbe.com/rss.xml](https://www.peterbe.com/rss.xml)
+        
+	- RSS: [https://www.peterbe.com/rss.xml](https://www.peterbe.com/rss.xml)
 - Ahmet Alp Balkan 
         
 	- URL: [https://ahmet.im/blog/](https://ahmet.im/blog/)
@@ -376,11 +381,6 @@
 	- URL: [http://www.paulgraham.com/](http://www.paulgraham.com/)
         
 	- RSS: [http://www.aaronsw.com/2002/feeds/pgessays.rss](http://www.aaronsw.com/2002/feeds/pgessays.rss)
-- Peterbe.com 
-        
-	- URL: [https://www.peterbe.com/rss.xml](https://www.peterbe.com/rss.xml)
-        
-	- RSS: [https://www.peterbe.com/rss.xml](https://www.peterbe.com/rss.xml)
 - Pete's Log 
         
 	- URL: [https://www.esgeroth.org/log/](https://www.esgeroth.org/log/)
