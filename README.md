@@ -1,5 +1,5 @@
 # rss feeds
-> generated: 2024-04-15 02:35:07.491322
+> generated: 2024-04-22 00:19:48.663071
 
 - Kashyap’s blog 
         
@@ -16,6 +16,11 @@
 	- URL: [https://www.peterbe.com/rss.xml](https://www.peterbe.com/rss.xml)
         
 	- RSS: [https://www.peterbe.com/rss.xml](https://www.peterbe.com/rss.xml)
+- sizeof(cat) 
+        
+	- URL: [https://sizeof.cat/](https://sizeof.cat/)
+        
+	- RSS: [https://sizeof.cat/feed.json](https://sizeof.cat/feed.json)
 - Ahmet Alp Balkan 
         
 	- URL: [https://ahmet.im/blog/](https://ahmet.im/blog/)
@@ -141,6 +146,11 @@
 	- URL: [https://chelseatroy.com](https://chelseatroy.com)
         
 	- RSS: [https://chelseatroy.com/feed/](https://chelseatroy.com/feed/)
+- ChrisShort.net 
+        
+	- URL: [https://chrisshort.net/](https://chrisshort.net/)
+        
+	- RSS: [https://chrisshort.net/index.xml](https://chrisshort.net/index.xml)
 - Christian Fei's Blog 
         
 	- URL: [https://cri.dev/rss.xml](https://cri.dev/rss.xml)
@@ -151,6 +161,16 @@
 	- URL: [https://www.cncf.io](https://www.cncf.io)
         
 	- RSS: [https://www.cncf.io/feed/](https://www.cncf.io/feed/)
+- codeinsecurity 
+        
+	- URL: [https://codeinsecurity.wordpress.com](https://codeinsecurity.wordpress.com)
+        
+	- RSS: [https://codeinsecurity.wordpress.com/feed/](https://codeinsecurity.wordpress.com/feed/)
+- Code & Sundry 
+        
+	- URL: [https://blog.jonstodle.com](https://blog.jonstodle.com)
+        
+	- RSS: [https://blog.jonstodle.com/rss.xml](https://blog.jonstodle.com/rss.xml)
 - coral 
         
 	- URL: [https://blog.jonasbengtson.se](https://blog.jonasbengtson.se)
@@ -161,6 +181,11 @@
 	- URL: [https://wozniak.ca/blog](https://wozniak.ca/blog)
         
 	- RSS: [https://wozniak.ca/blog/rss.xml](https://wozniak.ca/blog/rss.xml)
+- D. Moonfire 
+        
+	- URL: [https://d.moonfire.us/](https://d.moonfire.us/)
+        
+	- RSS: [https://d.moonfire.us/atom.xml](https://d.moonfire.us/atom.xml)
 - Dries Depoorter 
         
 	- URL: [https://driesdepoorter.be](https://driesdepoorter.be)
@@ -206,6 +231,11 @@
 	- URL: [https://fedoramagazine.org/](https://fedoramagazine.org/)
         
 	- RSS: [https://fedoramagazine.org/feed/](https://fedoramagazine.org/feed/)
+- fleshless.org 
+        
+	- URL: [https://fleshless.org](https://fleshless.org)
+        
+	- RSS: [https://fleshless.org/feed.xml](https://fleshless.org/feed.xml)
 - Funky Penguin's Geek Cookbook 
         
 	- URL: [https://geek-cookbook.funkypenguin.co.nz/](https://geek-cookbook.funkypenguin.co.nz/)
@@ -316,6 +346,11 @@
 	- URL: [https://karneliuk.com](https://karneliuk.com)
         
 	- RSS: [https://karneliuk.com/feed/](https://karneliuk.com/feed/)
+- KnifeCoat 
+        
+	- URL: [https://knifecoat.com/](https://knifecoat.com/)
+        
+	- RSS: [https://knifecoat.com/rss.xml](https://knifecoat.com/rss.xml)
 - Lara Callender Hogan 
         
 	- URL: [http://larahogan.github.io/](http://larahogan.github.io/)
@@ -351,11 +386,21 @@
 	- URL: [https://mitchellh.com/writing](https://mitchellh.com/writing)
         
 	- RSS: [https://mitchellh.com/feed.xml](https://mitchellh.com/feed.xml)
+- Moxie Marlinspike 
+        
+	- URL: [https://moxie.org/](https://moxie.org/)
+        
+	- RSS: [https://moxie.org/feed.xml](https://moxie.org/feed.xml)
 - Mozilla Hacks – the Web developer blog 
         
 	- URL: [https://hacks.mozilla.org](https://hacks.mozilla.org)
         
 	- RSS: [https://hacks.mozilla.org/feed/](https://hacks.mozilla.org/feed/)
+- mpolden's blog 
+        
+	- URL: [https://mpolden.no/blog/](https://mpolden.no/blog/)
+        
+	- RSS: [https://mpolden.no/blog/feed.xml](https://mpolden.no/blog/feed.xml)
 - Networklore 
         
 	- URL: [https://networklore.com/](https://networklore.com/)
@@ -451,11 +496,6 @@
 	- URL: [https://www.seanblanda.com/](https://www.seanblanda.com/)
         
 	- RSS: [https://www.seanblanda.com/rss/](https://www.seanblanda.com/rss/)
-- sizeof(cat) 
-        
-	- URL: [https://sizeof.cat/](https://sizeof.cat/)
-        
-	- RSS: [https://sizeof.cat/feed.json](https://sizeof.cat/feed.json)
 - Stories by Marianne Bellotti on Medium 
         
 	- URL: [https://medium.com/@bellmar?source=rss-d196ba9afc2d------2](https://medium.com/@bellmar?source=rss-d196ba9afc2d------2)
@@ -466,11 +506,21 @@
 	- URL: [https://susam.net/blog/feed.xml](https://susam.net/blog/feed.xml)
         
 	- RSS: [https://susam.net/blog/feed.xml](https://susam.net/blog/feed.xml)
+- Sylvia van Os 
+        
+	- URL: [https://sylviavanos.nl/](https://sylviavanos.nl/)
+        
+	- RSS: [https://sylviavanos.nl/feed.xml](https://sylviavanos.nl/feed.xml)
 - Syntax Meditation 
         
 	- URL: [https://www.sickenger.com](https://www.sickenger.com)
         
 	- RSS: [https://www.sickenger.com/feed/](https://www.sickenger.com/feed/)
+- Tangent Writes 
+        
+	- URL: [https://blog.tangentfox.com:443](https://blog.tangentfox.com:443)
+        
+	- RSS: [https://blog.tangentfox.com:443/feed/](https://blog.tangentfox.com:443/feed/)
 - Tania Rascia | RSS Feed 
         
 	- URL: [https://www.taniarascia.com](https://www.taniarascia.com)
@@ -506,6 +556,11 @@
 	- URL: [https://geohot.github.io//blog/](https://geohot.github.io//blog/)
         
 	- RSS: [https://geohot.github.io/blog/feed.xml](https://geohot.github.io/blog/feed.xml)
+- the singularity is nearer 
+        
+	- URL: [https://geohot.github.io//blog/](https://geohot.github.io//blog/)
+        
+	- RSS: [https://geohot.github.io//blog/feed.xml](https://geohot.github.io//blog/feed.xml)
 - Tigran Hakobyan's personal blog 
         
 	- URL: [https://tik.dev/blog](https://tik.dev/blog)
