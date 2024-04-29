@@ -1,6 +1,11 @@
 # rss feeds
-> generated: 2024-04-22 00:19:48.663071
+> generated: 2024-04-29 00:19:11.064972
 
+- Graham Christensen 
+        
+	- URL: [http://grahamc.com/](http://grahamc.com/)
+        
+	- RSS: [https://grahamc.com/feed/index.xml](https://grahamc.com/feed/index.xml)
 - Kashyap’s blog 
         
 	- URL: [https://kgrz.io/](https://kgrz.io/)
@@ -246,11 +251,6 @@
 	- URL: [https://g10s.io/](https://g10s.io/)
         
 	- RSS: [https://g10s.io/rss/](https://g10s.io/rss/)
-- Graham Christensen 
-        
-	- URL: [http://grahamc.com/](http://grahamc.com/)
-        
-	- RSS: [https://grahamc.com/feed/index.xml](https://grahamc.com/feed/index.xml)
 - harmj0y 
         
 	- URL: [https://blog.harmj0y.net](https://blog.harmj0y.net)
@@ -555,12 +555,12 @@
         
 	- URL: [https://geohot.github.io//blog/](https://geohot.github.io//blog/)
         
-	- RSS: [https://geohot.github.io/blog/feed.xml](https://geohot.github.io/blog/feed.xml)
+	- RSS: [https://geohot.github.io//blog/feed.xml](https://geohot.github.io//blog/feed.xml)
 - the singularity is nearer 
         
 	- URL: [https://geohot.github.io//blog/](https://geohot.github.io//blog/)
         
-	- RSS: [https://geohot.github.io//blog/feed.xml](https://geohot.github.io//blog/feed.xml)
+	- RSS: [https://geohot.github.io/blog/feed.xml](https://geohot.github.io/blog/feed.xml)
 - Tigran Hakobyan's personal blog 
         
 	- URL: [https://tik.dev/blog](https://tik.dev/blog)
