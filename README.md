@@ -1,11 +1,21 @@
 # rss feeds
-> generated: 2024-04-29 00:19:11.064972
+> generated: 2024-05-06 00:19:26.697996
 
+- coral 
+        
+	- URL: [https://blog.jonasbengtson.se](https://blog.jonasbengtson.se)
+        
+	- RSS: [https://blog.jonasbengtson.se/feed.rss](https://blog.jonasbengtson.se/feed.rss)
 - Graham Christensen 
         
 	- URL: [http://grahamc.com/](http://grahamc.com/)
         
 	- RSS: [https://grahamc.com/feed/index.xml](https://grahamc.com/feed/index.xml)
+- icyphox 
+        
+	- URL: [https://icyphox.sh/](https://icyphox.sh/)
+        
+	- RSS: [https://icyphox.sh/blog/feed.xml](https://icyphox.sh/blog/feed.xml)
 - Kashyap’s blog 
         
 	- URL: [https://kgrz.io/](https://kgrz.io/)
@@ -26,6 +36,11 @@
 	- URL: [https://sizeof.cat/](https://sizeof.cat/)
         
 	- RSS: [https://sizeof.cat/feed.json](https://sizeof.cat/feed.json)
+- The DFIR Report 
+        
+	- URL: [https://thedfirreport.com/](https://thedfirreport.com/)
+        
+	- RSS: [https://thedfirreport.com/feed/](https://thedfirreport.com/feed/)
 - Ahmet Alp Balkan 
         
 	- URL: [https://ahmet.im/blog/](https://ahmet.im/blog/)
@@ -176,11 +191,6 @@
 	- URL: [https://blog.jonstodle.com](https://blog.jonstodle.com)
         
 	- RSS: [https://blog.jonstodle.com/rss.xml](https://blog.jonstodle.com/rss.xml)
-- coral 
-        
-	- URL: [https://blog.jonasbengtson.se](https://blog.jonasbengtson.se)
-        
-	- RSS: [https://blog.jonasbengtson.se/feed.rss](https://blog.jonasbengtson.se/feed.rss)
 - Curried Lambda 
         
 	- URL: [https://wozniak.ca/blog](https://wozniak.ca/blog)
@@ -326,11 +336,11 @@
 	- URL: [https://www.vice.com/en/rss/section/tech?locale=en_us](https://www.vice.com/en/rss/section/tech?locale=en_us)
         
 	- RSS: [https://www.vice.com/en/rss/section/tech?locale=en_us](https://www.vice.com/en/rss/section/tech?locale=en_us)
-- icyphox 
+- It's FOSS News 
         
-	- URL: [https://icyphox.sh/](https://icyphox.sh/)
+	- URL: [https://news.itsfoss.com/](https://news.itsfoss.com/)
         
-	- RSS: [https://icyphox.sh/blog/feed.xml](https://icyphox.sh/blog/feed.xml)
+	- RSS: [https://news.itsfoss.com/latest/rss/](https://news.itsfoss.com/latest/rss/)
 - Jeff Geerling's Blog 
         
 	- URL: [https://www.jeffgeerling.com/](https://www.jeffgeerling.com/)
@@ -541,11 +551,6 @@
 	- URL: [https://terinstock.com/](https://terinstock.com/)
         
 	- RSS: [https://terinstock.com/index.xml](https://terinstock.com/index.xml)
-- The DFIR Report 
-        
-	- URL: [https://thedfirreport.com/](https://thedfirreport.com/)
-        
-	- RSS: [https://thedfirreport.com/feed/](https://thedfirreport.com/feed/)
 - The Sharat's 
         
 	- URL: [https://sharats.me/](https://sharats.me/)
