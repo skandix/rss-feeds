@@ -1,5 +1,5 @@
 # rss feeds
-> generated: 2024-05-20 00:19:48.391019
+> generated: 2024-06-06 19:22:48.166304
 
 - coral 
         
@@ -41,6 +41,11 @@
 	- URL: [https://thedfirreport.com/](https://thedfirreport.com/)
         
 	- RSS: [https://thedfirreport.com/feed/](https://thedfirreport.com/feed/)
+- 404 Media 
+        
+	- URL: [https://www.404media.co/](https://www.404media.co/)
+        
+	- RSS: [https://www.404media.co/rss/](https://www.404media.co/rss/)
 - Ahmet Alp Balkan 
         
 	- URL: [https://ahmet.im/blog/](https://ahmet.im/blog/)
@@ -176,6 +181,11 @@
 	- URL: [https://cri.dev/rss.xml](https://cri.dev/rss.xml)
         
 	- RSS: [https://cri.dev/rss.xml](https://cri.dev/rss.xml)
+- ClevCode 
+        
+	- URL: [https://clevcode.org](https://clevcode.org)
+        
+	- RSS: [https://clevcode.org/feed/](https://clevcode.org/feed/)
 - Cloud Native Computing Foundation 
         
 	- URL: [https://www.cncf.io](https://www.cncf.io)
@@ -506,6 +516,16 @@
 	- URL: [https://www.seanblanda.com/](https://www.seanblanda.com/)
         
 	- RSS: [https://www.seanblanda.com/rss/](https://www.seanblanda.com/rss/)
+- Siddharth Dushantha 
+        
+	- URL: [https://sdushantha.github.io/](https://sdushantha.github.io/)
+        
+	- RSS: [https://sdushantha.github.io/index.xml](https://sdushantha.github.io/index.xml)
+- Signs of Triviality 
+        
+	- URL: [http://www.netmeister.org/blog/](http://www.netmeister.org/blog/)
+        
+	- RSS: [https://www.netmeister.org/blog/rss.xml](https://www.netmeister.org/blog/rss.xml)
 - Stories by Marianne Bellotti on Medium 
         
 	- URL: [https://medium.com/@bellmar?source=rss-d196ba9afc2d------2](https://medium.com/@bellmar?source=rss-d196ba9afc2d------2)
@@ -560,12 +580,12 @@
         
 	- URL: [https://geohot.github.io//blog/](https://geohot.github.io//blog/)
         
-	- RSS: [https://geohot.github.io//blog/feed.xml](https://geohot.github.io//blog/feed.xml)
+	- RSS: [https://geohot.github.io/blog/feed.xml](https://geohot.github.io/blog/feed.xml)
 - the singularity is nearer 
         
 	- URL: [https://geohot.github.io//blog/](https://geohot.github.io//blog/)
         
-	- RSS: [https://geohot.github.io/blog/feed.xml](https://geohot.github.io/blog/feed.xml)
+	- RSS: [https://geohot.github.io//blog/feed.xml](https://geohot.github.io//blog/feed.xml)
 - Tigran Hakobyan's personal blog 
         
 	- URL: [https://tik.dev/blog](https://tik.dev/blog)
