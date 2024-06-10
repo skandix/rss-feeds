@@ -1,5 +1,5 @@
 # rss feeds
-> generated: 2024-06-06 19:22:48.166304
+> generated: 2024-06-10 00:20:56.421338
 
 - coral 
         
@@ -580,12 +580,12 @@
         
 	- URL: [https://geohot.github.io//blog/](https://geohot.github.io//blog/)
         
-	- RSS: [https://geohot.github.io/blog/feed.xml](https://geohot.github.io/blog/feed.xml)
+	- RSS: [https://geohot.github.io//blog/feed.xml](https://geohot.github.io//blog/feed.xml)
 - the singularity is nearer 
         
 	- URL: [https://geohot.github.io//blog/](https://geohot.github.io//blog/)
         
-	- RSS: [https://geohot.github.io//blog/feed.xml](https://geohot.github.io//blog/feed.xml)
+	- RSS: [https://geohot.github.io/blog/feed.xml](https://geohot.github.io/blog/feed.xml)
 - Tigran Hakobyan's personal blog 
         
 	- URL: [https://tik.dev/blog](https://tik.dev/blog)
