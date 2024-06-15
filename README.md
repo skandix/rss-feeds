@@ -1,5 +1,5 @@
 # rss feeds
-> generated: 2024-06-10 00:20:56.421338
+> generated: 2024-06-15 21:36:11.443437
 
 - coral 
         
@@ -31,6 +31,11 @@
 	- URL: [https://www.peterbe.com/rss.xml](https://www.peterbe.com/rss.xml)
         
 	- RSS: [https://www.peterbe.com/rss.xml](https://www.peterbe.com/rss.xml)
+- Signs of Triviality 
+        
+	- URL: [http://www.netmeister.org/blog/](http://www.netmeister.org/blog/)
+        
+	- RSS: [https://www.netmeister.org/blog/rss.xml](https://www.netmeister.org/blog/rss.xml)
 - sizeof(cat) 
         
 	- URL: [https://sizeof.cat/](https://sizeof.cat/)
@@ -426,6 +431,11 @@
 	- URL: [https://networklore.com/](https://networklore.com/)
         
 	- RSS: [http://feeds.networklore.com/Networklore](http://feeds.networklore.com/Networklore)
+- Nire Bryce 
+        
+	- URL: [https://cohost.org/NireBryce](https://cohost.org/NireBryce)
+        
+	- RSS: [https://cohost.org/NireBryce/rss/public.json](https://cohost.org/NireBryce/rss/public.json)
 - no.lol 
         
 	- URL: [https://www.no.lol](https://www.no.lol)
@@ -521,11 +531,6 @@
 	- URL: [https://sdushantha.github.io/](https://sdushantha.github.io/)
         
 	- RSS: [https://sdushantha.github.io/index.xml](https://sdushantha.github.io/index.xml)
-- Signs of Triviality 
-        
-	- URL: [http://www.netmeister.org/blog/](http://www.netmeister.org/blog/)
-        
-	- RSS: [https://www.netmeister.org/blog/rss.xml](https://www.netmeister.org/blog/rss.xml)
 - Stories by Marianne Bellotti on Medium 
         
 	- URL: [https://medium.com/@bellmar?source=rss-d196ba9afc2d------2](https://medium.com/@bellmar?source=rss-d196ba9afc2d------2)
@@ -580,12 +585,12 @@
         
 	- URL: [https://geohot.github.io//blog/](https://geohot.github.io//blog/)
         
-	- RSS: [https://geohot.github.io//blog/feed.xml](https://geohot.github.io//blog/feed.xml)
+	- RSS: [https://geohot.github.io/blog/feed.xml](https://geohot.github.io/blog/feed.xml)
 - the singularity is nearer 
         
 	- URL: [https://geohot.github.io//blog/](https://geohot.github.io//blog/)
         
-	- RSS: [https://geohot.github.io/blog/feed.xml](https://geohot.github.io/blog/feed.xml)
+	- RSS: [https://geohot.github.io//blog/feed.xml](https://geohot.github.io//blog/feed.xml)
 - Tigran Hakobyan's personal blog 
         
 	- URL: [https://tik.dev/blog](https://tik.dev/blog)
@@ -596,6 +601,11 @@
 	- URL: [https://www.unikumnett.no](https://www.unikumnett.no)
         
 	- RSS: [https://www.unikumnett.no/feed/](https://www.unikumnett.no/feed/)
+- Unterminated 
+        
+	- URL: [https://www.unterminated.com/](https://www.unterminated.com/)
+        
+	- RSS: [https://www.unterminated.com/atom.xml](https://www.unterminated.com/atom.xml)
 - Waxy.org 
         
 	- URL: [https://waxy.org/](https://waxy.org/)
