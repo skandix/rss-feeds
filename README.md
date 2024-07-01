@@ -1,5 +1,5 @@
 # rss feeds
-> generated: 2024-06-17 00:21:17.449273
+> generated: 2024-07-01 00:23:47.372388
 
 - coral 
         
@@ -11,6 +11,11 @@
 	- URL: [http://grahamc.com/](http://grahamc.com/)
         
 	- RSS: [https://grahamc.com/feed/index.xml](https://grahamc.com/feed/index.xml)
+- christine 
+        
+	- URL: [https://christine.website/blog.rss](https://christine.website/blog.rss)
+        
+	- RSS: [https://christine.website/blog.rss](https://christine.website/blog.rss)
 - icyphox 
         
 	- URL: [https://icyphox.sh/](https://icyphox.sh/)
@@ -41,6 +46,11 @@
 	- URL: [https://sizeof.cat/](https://sizeof.cat/)
         
 	- RSS: [https://sizeof.cat/feed.json](https://sizeof.cat/feed.json)
+- Tangent Writes 
+        
+	- URL: [https://blog.tangentfox.com:443](https://blog.tangentfox.com:443)
+        
+	- RSS: [https://blog.tangentfox.com:443/feed/](https://blog.tangentfox.com:443/feed/)
 - The DFIR Report 
         
 	- URL: [https://thedfirreport.com/](https://thedfirreport.com/)
@@ -301,11 +311,6 @@
 	- URL: [https://carolynvanslyck.com/blog/index.xml](https://carolynvanslyck.com/blog/index.xml)
         
 	- RSS: [https://carolynvanslyck.com/blog/index.xml](https://carolynvanslyck.com/blog/index.xml)
-- christine 
-        
-	- URL: [https://christine.website/blog.rss](https://christine.website/blog.rss)
-        
-	- RSS: [https://christine.website/blog.rss](https://christine.website/blog.rss)
 - danluu 
         
 	- URL: [https://danluu.com/atom/index.xml](https://danluu.com/atom/index.xml)
@@ -551,11 +556,6 @@
 	- URL: [https://www.sickenger.com](https://www.sickenger.com)
         
 	- RSS: [https://www.sickenger.com/feed/](https://www.sickenger.com/feed/)
-- Tangent Writes 
-        
-	- URL: [https://blog.tangentfox.com:443](https://blog.tangentfox.com:443)
-        
-	- RSS: [https://blog.tangentfox.com:443/feed/](https://blog.tangentfox.com:443/feed/)
 - Tania Rascia | RSS Feed 
         
 	- URL: [https://www.taniarascia.com](https://www.taniarascia.com)
@@ -585,12 +585,12 @@
         
 	- URL: [https://geohot.github.io//blog/](https://geohot.github.io//blog/)
         
-	- RSS: [https://geohot.github.io/blog/feed.xml](https://geohot.github.io/blog/feed.xml)
+	- RSS: [https://geohot.github.io//blog/feed.xml](https://geohot.github.io//blog/feed.xml)
 - the singularity is nearer 
         
 	- URL: [https://geohot.github.io//blog/](https://geohot.github.io//blog/)
         
-	- RSS: [https://geohot.github.io//blog/feed.xml](https://geohot.github.io//blog/feed.xml)
+	- RSS: [https://geohot.github.io/blog/feed.xml](https://geohot.github.io/blog/feed.xml)
 - Tigran Hakobyan's personal blog 
         
 	- URL: [https://tik.dev/blog](https://tik.dev/blog)
