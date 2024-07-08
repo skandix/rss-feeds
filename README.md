@@ -1,5 +1,5 @@
 # rss feeds
-> generated: 2024-07-01 00:23:47.372388
+> generated: 2024-07-08 00:21:26.451707
 
 - coral 
         
@@ -66,6 +66,11 @@
 	- URL: [https://ahmet.im/blog/](https://ahmet.im/blog/)
         
 	- RSS: [https://ahmet.im/blog/feed/rss.xml](https://ahmet.im/blog/feed/rss.xml)
+- Ako's Nyotebook 
+        
+	- URL: [https://catgirl.homes/~ako/blog/rss](https://catgirl.homes/~ako/blog/rss)
+        
+	- RSS: [https://catgirl.homes/~ako/blog/rss.xml](https://catgirl.homes/~ako/blog/rss.xml)
 - Ameya's blog 
         
 	- URL: [http://juggernaut.github.io/](http://juggernaut.github.io/)
