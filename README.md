@@ -1,5 +1,5 @@
 # rss feeds
-> generated: 2024-07-08 00:21:26.451707
+> generated: 2024-07-09 21:00:13.449715
 
 - coral 
         
@@ -56,6 +56,11 @@
 	- URL: [https://thedfirreport.com/](https://thedfirreport.com/)
         
 	- RSS: [https://thedfirreport.com/feed/](https://thedfirreport.com/feed/)
+- Unikum 
+        
+	- URL: [https://www.unikumnett.no](https://www.unikumnett.no)
+        
+	- RSS: [https://www.unikumnett.no/feed/](https://www.unikumnett.no/feed/)
 - 404 Media 
         
 	- URL: [https://www.404media.co/](https://www.404media.co/)
@@ -91,6 +96,11 @@
 	- URL: [https://dannb.org/blog/](https://dannb.org/blog/)
         
 	- RSS: [https://dannb.org/blog/index.xml](https://dannb.org/blog/index.xml)
+- astrid.tech 
+        
+	- URL: [https://astrid.tech](https://astrid.tech)
+        
+	- RSS: [https://astrid.tech/feed.xml](https://astrid.tech/feed.xml)
 - atthis.link 
         
 	- URL: [https://atthis.link](https://atthis.link)
@@ -181,6 +191,11 @@
 	- URL: [https://cadence.moe/blog](https://cadence.moe/blog)
         
 	- RSS: [https://cadence.moe/blog/rss.xml?limit=30](https://cadence.moe/blog/rss.xml?limit=30)
+- cafkafk 
+        
+	- URL: [https://cafkafk.dev/](https://cafkafk.dev/)
+        
+	- RSS: [https://cafkafk.dev/index.xml](https://cafkafk.dev/index.xml)
 - ChaelCodes 
         
 	- URL: [https://www.chael.codes/](https://www.chael.codes/)
@@ -246,6 +261,11 @@
 	- URL: [https://educatedguesswork.org](https://educatedguesswork.org)
         
 	- RSS: [https://educatedguesswork.org/feed/feed.json](https://educatedguesswork.org/feed/feed.json)
+- Electronic Frontier Foundation 
+        
+	- URL: [https://www.eff.org](https://www.eff.org)
+        
+	- RSS: [https://www.eff.org/rss.xml](https://www.eff.org/rss.xml)
 - emersion 
         
 	- URL: [https://emersion.fr/blog/](https://emersion.fr/blog/)
@@ -361,11 +381,21 @@
 	- URL: [https://www.vice.com/en/rss/section/tech?locale=en_us](https://www.vice.com/en/rss/section/tech?locale=en_us)
         
 	- RSS: [https://www.vice.com/en/rss/section/tech?locale=en_us](https://www.vice.com/en/rss/section/tech?locale=en_us)
+- Isabel Roses 
+        
+	- URL: [https://isabelroses.com](https://isabelroses.com)
+        
+	- RSS: [https://isabelroses.com/feed.json](https://isabelroses.com/feed.json)
 - It's FOSS News 
         
 	- URL: [https://news.itsfoss.com/](https://news.itsfoss.com/)
         
 	- RSS: [https://news.itsfoss.com/latest/rss/](https://news.itsfoss.com/latest/rss/)
+- jade's www site 
+        
+	- URL: [https://jade.fyi](https://jade.fyi)
+        
+	- RSS: [https://jade.fyi/rss.xml](https://jade.fyi/rss.xml)
 - Jeff Geerling's Blog 
         
 	- URL: [https://www.jeffgeerling.com/](https://www.jeffgeerling.com/)
@@ -446,6 +476,11 @@
 	- URL: [https://cohost.org/NireBryce](https://cohost.org/NireBryce)
         
 	- RSS: [https://cohost.org/NireBryce/rss/public.json](https://cohost.org/NireBryce/rss/public.json)
+- nixpkgs.news 
+        
+	- URL: [https://nixpkgs.news/](https://nixpkgs.news/)
+        
+	- RSS: [https://nixpkgs.news/rss.xml](https://nixpkgs.news/rss.xml)
 - no.lol 
         
 	- URL: [https://www.no.lol](https://www.no.lol)
@@ -541,6 +576,11 @@
 	- URL: [https://sdushantha.github.io/](https://sdushantha.github.io/)
         
 	- RSS: [https://sdushantha.github.io/index.xml](https://sdushantha.github.io/index.xml)
+- Solene'% 
+        
+	- URL: [https://dataswamp.org/~solene/](https://dataswamp.org/~solene/)
+        
+	- RSS: [https://dataswamp.org/~solene/rss-html.xml](https://dataswamp.org/~solene/rss-html.xml)
 - Stories by Marianne Bellotti on Medium 
         
 	- URL: [https://medium.com/@bellmar?source=rss-d196ba9afc2d------2](https://medium.com/@bellmar?source=rss-d196ba9afc2d------2)
@@ -601,11 +641,6 @@
 	- URL: [https://tik.dev/blog](https://tik.dev/blog)
         
 	- RSS: [https://www.tik.dev/feed.xml](https://www.tik.dev/feed.xml)
-- Unikum 
-        
-	- URL: [https://www.unikumnett.no](https://www.unikumnett.no)
-        
-	- RSS: [https://www.unikumnett.no/feed/](https://www.unikumnett.no/feed/)
 - Unterminated 
         
 	- URL: [https://www.unterminated.com/](https://www.unterminated.com/)
@@ -621,6 +656,11 @@
 	- URL: [http://weekly.tf/](http://weekly.tf/)
         
 	- RSS: [https://s3.amazonaws.com/revue/accounts/rss_feeds/000/052/245/original/rss_feed_52245.xml?1671033606](https://s3.amazonaws.com/revue/accounts/rss_feeds/000/052/245/original/rss_feed_52245.xml?1671033606)
+- Welcome to my website on ayats.org 
+        
+	- URL: [https://ayats.org/](https://ayats.org/)
+        
+	- RSS: [https://ayats.org/index.xml](https://ayats.org/index.xml)
 - Writing by Bob Doto 
         
 	- URL: [https://writing.bobdoto.computer/](https://writing.bobdoto.computer/)
