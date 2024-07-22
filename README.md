@@ -1,71 +1,21 @@
 # rss feeds
-> generated: 2024-07-15 00:21:36.115969
+> generated: 2024-07-22 00:21:55.155352
 
-- coral 
-        
-	- URL: [https://blog.jonasbengtson.se](https://blog.jonasbengtson.se)
-        
-	- RSS: [https://blog.jonasbengtson.se/feed.rss](https://blog.jonasbengtson.se/feed.rss)
-- Graham Christensen 
-        
-	- URL: [http://grahamc.com/](http://grahamc.com/)
-        
-	- RSS: [https://grahamc.com/feed/index.xml](https://grahamc.com/feed/index.xml)
-- christine 
-        
-	- URL: [https://christine.website/blog.rss](https://christine.website/blog.rss)
-        
-	- RSS: [https://christine.website/blog.rss](https://christine.website/blog.rss)
-- icyphox 
-        
-	- URL: [https://icyphox.sh/](https://icyphox.sh/)
-        
-	- RSS: [https://icyphox.sh/blog/feed.xml](https://icyphox.sh/blog/feed.xml)
-- Kashyap’s blog 
-        
-	- URL: [https://kgrz.io/](https://kgrz.io/)
-        
-	- RSS: [https://kgrz.io/feed.xml](https://kgrz.io/feed.xml)
-- moth.monster blog 
-        
-	- URL: [https://moth.monster/blog/](https://moth.monster/blog/)
-        
-	- RSS: [https://moth.monster/blog/feed.xml](https://moth.monster/blog/feed.xml)
-- Peterbe.com 
-        
-	- URL: [https://www.peterbe.com/rss.xml](https://www.peterbe.com/rss.xml)
-        
-	- RSS: [https://www.peterbe.com/rss.xml](https://www.peterbe.com/rss.xml)
-- Signs of Triviality 
-        
-	- URL: [http://www.netmeister.org/blog/](http://www.netmeister.org/blog/)
-        
-	- RSS: [https://www.netmeister.org/blog/rss.xml](https://www.netmeister.org/blog/rss.xml)
-- sizeof(cat) 
-        
-	- URL: [https://sizeof.cat/](https://sizeof.cat/)
-        
-	- RSS: [https://sizeof.cat/feed.json](https://sizeof.cat/feed.json)
-- Tangent Writes 
-        
-	- URL: [https://blog.tangentfox.com:443](https://blog.tangentfox.com:443)
-        
-	- RSS: [https://blog.tangentfox.com:443/feed/](https://blog.tangentfox.com:443/feed/)
-- The DFIR Report 
-        
-	- URL: [https://thedfirreport.com/](https://thedfirreport.com/)
-        
-	- RSS: [https://thedfirreport.com/feed/](https://thedfirreport.com/feed/)
-- Unikum 
-        
-	- URL: [https://www.unikumnett.no](https://www.unikumnett.no)
-        
-	- RSS: [https://www.unikumnett.no/feed/](https://www.unikumnett.no/feed/)
 - Welcome to my website on ayats.org 
         
 	- URL: [https://ayats.org/](https://ayats.org/)
         
 	- RSS: [https://ayats.org/index.xml](https://ayats.org/index.xml)
+- Tangent Writes 
+        
+	- URL: [https://blog.tangentfox.com:443](https://blog.tangentfox.com:443)
+        
+	- RSS: [https://blog.tangentfox.com:443/feed/](https://blog.tangentfox.com:443/feed/)
+- 雨山 
+        
+	- URL: [https://ameyama.com](https://ameyama.com)
+        
+	- RSS: [https://ameyama.com/blog/rss.xml](https://ameyama.com/blog/rss.xml)
 - 404 Media 
         
 	- URL: [https://www.404media.co/](https://www.404media.co/)
@@ -241,6 +191,11 @@
 	- URL: [https://blog.jonstodle.com](https://blog.jonstodle.com)
         
 	- RSS: [https://blog.jonstodle.com/rss.xml](https://blog.jonstodle.com/rss.xml)
+- coral 
+        
+	- URL: [https://blog.jonasbengtson.se](https://blog.jonasbengtson.se)
+        
+	- RSS: [https://blog.jonasbengtson.se/feed.rss](https://blog.jonasbengtson.se/feed.rss)
 - Curried Lambda 
         
 	- URL: [https://wozniak.ca/blog](https://wozniak.ca/blog)
@@ -316,6 +271,11 @@
 	- URL: [https://g10s.io/](https://g10s.io/)
         
 	- RSS: [https://g10s.io/rss/](https://g10s.io/rss/)
+- Graham Christensen 
+        
+	- URL: [http://grahamc.com/](http://grahamc.com/)
+        
+	- RSS: [https://grahamc.com/feed/index.xml](https://grahamc.com/feed/index.xml)
 - harmj0y 
         
 	- URL: [https://blog.harmj0y.net](https://blog.harmj0y.net)
@@ -341,6 +301,11 @@
 	- URL: [https://carolynvanslyck.com/blog/index.xml](https://carolynvanslyck.com/blog/index.xml)
         
 	- RSS: [https://carolynvanslyck.com/blog/index.xml](https://carolynvanslyck.com/blog/index.xml)
+- christine 
+        
+	- URL: [https://christine.website/blog.rss](https://christine.website/blog.rss)
+        
+	- RSS: [https://christine.website/blog.rss](https://christine.website/blog.rss)
 - danluu 
         
 	- URL: [https://danluu.com/atom/index.xml](https://danluu.com/atom/index.xml)
@@ -386,6 +351,11 @@
 	- URL: [https://www.vice.com/en/rss/section/tech?locale=en_us](https://www.vice.com/en/rss/section/tech?locale=en_us)
         
 	- RSS: [https://www.vice.com/en/rss/section/tech?locale=en_us](https://www.vice.com/en/rss/section/tech?locale=en_us)
+- icyphox 
+        
+	- URL: [https://icyphox.sh/](https://icyphox.sh/)
+        
+	- RSS: [https://icyphox.sh/blog/feed.xml](https://icyphox.sh/blog/feed.xml)
 - Isabel Roses 
         
 	- URL: [https://isabelroses.com](https://isabelroses.com)
@@ -416,6 +386,11 @@
 	- URL: [https://karneliuk.com](https://karneliuk.com)
         
 	- RSS: [https://karneliuk.com/feed/](https://karneliuk.com/feed/)
+- Kashyap’s blog 
+        
+	- URL: [https://kgrz.io/](https://kgrz.io/)
+        
+	- RSS: [https://kgrz.io/feed.xml](https://kgrz.io/feed.xml)
 - KnifeCoat 
         
 	- URL: [https://knifecoat.com/](https://knifecoat.com/)
@@ -456,6 +431,11 @@
 	- URL: [https://mitchellh.com/writing](https://mitchellh.com/writing)
         
 	- RSS: [https://mitchellh.com/feed.xml](https://mitchellh.com/feed.xml)
+- moth.monster blog 
+        
+	- URL: [https://moth.monster/blog/](https://moth.monster/blog/)
+        
+	- RSS: [https://moth.monster/blog/feed.xml](https://moth.monster/blog/feed.xml)
 - Moxie Marlinspike 
         
 	- URL: [https://moxie.org/](https://moxie.org/)
@@ -506,6 +486,11 @@
 	- URL: [http://www.paulgraham.com/](http://www.paulgraham.com/)
         
 	- RSS: [http://www.aaronsw.com/2002/feeds/pgessays.rss](http://www.aaronsw.com/2002/feeds/pgessays.rss)
+- Peterbe.com 
+        
+	- URL: [https://www.peterbe.com/rss.xml](https://www.peterbe.com/rss.xml)
+        
+	- RSS: [https://www.peterbe.com/rss.xml](https://www.peterbe.com/rss.xml)
 - Pete's Log 
         
 	- URL: [https://www.esgeroth.org/log/](https://www.esgeroth.org/log/)
@@ -531,6 +516,11 @@
 	- URL: [https://seirdy.one/posts/atom.xml](https://seirdy.one/posts/atom.xml)
         
 	- RSS: [https://seirdy.one/posts/atom.xml](https://seirdy.one/posts/atom.xml)
+- Posts on Three Letter Acronym 
+        
+	- URL: [https://tla.wtf/posts/](https://tla.wtf/posts/)
+        
+	- RSS: [https://tla.wtf/posts/index.xml](https://tla.wtf/posts/index.xml)
 - probes 
         
 	- URL: [https://clux.dev](https://clux.dev)
@@ -576,11 +566,26 @@
 	- URL: [https://www.seanblanda.com/](https://www.seanblanda.com/)
         
 	- RSS: [https://www.seanblanda.com/rss/](https://www.seanblanda.com/rss/)
+- Shen's Essays 
+        
+	- URL: [https://shen.hong.io/](https://shen.hong.io/)
+        
+	- RSS: [https://shen.hong.io/rss/](https://shen.hong.io/rss/)
 - Siddharth Dushantha 
         
 	- URL: [https://sdushantha.github.io/](https://sdushantha.github.io/)
         
 	- RSS: [https://sdushantha.github.io/index.xml](https://sdushantha.github.io/index.xml)
+- Signs of Triviality 
+        
+	- URL: [http://www.netmeister.org/blog/](http://www.netmeister.org/blog/)
+        
+	- RSS: [https://www.netmeister.org/blog/rss.xml](https://www.netmeister.org/blog/rss.xml)
+- sizeof(cat) 
+        
+	- URL: [https://sizeof.cat/](https://sizeof.cat/)
+        
+	- RSS: [https://sizeof.cat/feed.json](https://sizeof.cat/feed.json)
 - Solene'% 
         
 	- URL: [https://dataswamp.org/~solene/](https://dataswamp.org/~solene/)
@@ -626,6 +631,11 @@
 	- URL: [https://terinstock.com/](https://terinstock.com/)
         
 	- RSS: [https://terinstock.com/index.xml](https://terinstock.com/index.xml)
+- The DFIR Report 
+        
+	- URL: [https://thedfirreport.com/](https://thedfirreport.com/)
+        
+	- RSS: [https://thedfirreport.com/feed/](https://thedfirreport.com/feed/)
 - The Sharat's 
         
 	- URL: [https://sharats.me/](https://sharats.me/)
@@ -646,6 +656,11 @@
 	- URL: [https://tik.dev/blog](https://tik.dev/blog)
         
 	- RSS: [https://www.tik.dev/feed.xml](https://www.tik.dev/feed.xml)
+- Unikum 
+        
+	- URL: [https://www.unikumnett.no](https://www.unikumnett.no)
+        
+	- RSS: [https://www.unikumnett.no/feed/](https://www.unikumnett.no/feed/)
 - Unterminated 
         
 	- URL: [https://www.unterminated.com/](https://www.unterminated.com/)
@@ -681,8 +696,3 @@
 	- URL: [https://herman.bearblog.dev/](https://herman.bearblog.dev/)
         
 	- RSS: [https://herman.bearblog.dev/feed/?type=rss](https://herman.bearblog.dev/feed/?type=rss)
-- 雨山 
-        
-	- URL: [https://ameyama.com](https://ameyama.com)
-        
-	- RSS: [https://ameyama.com/blog/rss.xml](https://ameyama.com/blog/rss.xml)
