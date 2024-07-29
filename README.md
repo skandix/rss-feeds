@@ -1,11 +1,21 @@
 # rss feeds
-> generated: 2024-07-22 00:21:55.155352
+> generated: 2024-07-29 00:21:52.279702
 
 - Welcome to my website on ayats.org 
         
 	- URL: [https://ayats.org/](https://ayats.org/)
         
 	- RSS: [https://ayats.org/index.xml](https://ayats.org/index.xml)
+- fleshless.org 
+        
+	- URL: [https://fleshless.org](https://fleshless.org)
+        
+	- RSS: [https://fleshless.org/feed.xml](https://fleshless.org/feed.xml)
+- icyphox 
+        
+	- URL: [https://icyphox.sh/](https://icyphox.sh/)
+        
+	- RSS: [https://icyphox.sh/blog/feed.xml](https://icyphox.sh/blog/feed.xml)
 - Tangent Writes 
         
 	- URL: [https://blog.tangentfox.com:443](https://blog.tangentfox.com:443)
@@ -256,11 +266,6 @@
 	- URL: [https://fedoramagazine.org/](https://fedoramagazine.org/)
         
 	- RSS: [https://fedoramagazine.org/feed/](https://fedoramagazine.org/feed/)
-- fleshless.org 
-        
-	- URL: [https://fleshless.org](https://fleshless.org)
-        
-	- RSS: [https://fleshless.org/feed.xml](https://fleshless.org/feed.xml)
 - Funky Penguin's Geek Cookbook 
         
 	- URL: [https://geek-cookbook.funkypenguin.co.nz/](https://geek-cookbook.funkypenguin.co.nz/)
@@ -351,11 +356,11 @@
 	- URL: [https://www.vice.com/en/rss/section/tech?locale=en_us](https://www.vice.com/en/rss/section/tech?locale=en_us)
         
 	- RSS: [https://www.vice.com/en/rss/section/tech?locale=en_us](https://www.vice.com/en/rss/section/tech?locale=en_us)
-- icyphox 
+- Isabel Roses 
         
-	- URL: [https://icyphox.sh/](https://icyphox.sh/)
+	- URL: [https://isabelroses.com/feed.xml](https://isabelroses.com/feed.xml)
         
-	- RSS: [https://icyphox.sh/blog/feed.xml](https://icyphox.sh/blog/feed.xml)
+	- RSS: [https://isabelroses.com/feed.xml](https://isabelroses.com/feed.xml)
 - Isabel Roses 
         
 	- URL: [https://isabelroses.com](https://isabelroses.com)
