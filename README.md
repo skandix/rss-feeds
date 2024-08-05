@@ -1,5 +1,5 @@
 # rss feeds
-> generated: 2024-07-29 00:21:52.279702
+> generated: 2024-08-05 00:21:57.869889
 
 - Welcome to my website on ayats.org 
         
@@ -11,6 +11,11 @@
 	- URL: [https://fleshless.org](https://fleshless.org)
         
 	- RSS: [https://fleshless.org/feed.xml](https://fleshless.org/feed.xml)
+- Graham Christensen 
+        
+	- URL: [http://grahamc.com/](http://grahamc.com/)
+        
+	- RSS: [https://grahamc.com/feed/index.xml](https://grahamc.com/feed/index.xml)
 - icyphox 
         
 	- URL: [https://icyphox.sh/](https://icyphox.sh/)
@@ -241,6 +246,16 @@
 	- URL: [https://emersion.fr/blog/](https://emersion.fr/blog/)
         
 	- RSS: [https://emersion.fr/blog/atom.xml](https://emersion.fr/blog/atom.xml)
+- env.fail 
+        
+	- URL: [https://env.fail/](https://env.fail/)
+        
+	- RSS: [https://env.fail/blog.json](https://env.fail/blog.json)
+- Eric Daigle 
+        
+	- URL: [https://ericdaigle.ca/](https://ericdaigle.ca/)
+        
+	- RSS: [https://www.ericdaigle.ca/atom.xml](https://www.ericdaigle.ca/atom.xml)
 - Essays - Kenneth Reitz 
         
 	- URL: [https://kennethreitz.org/essays/](https://kennethreitz.org/essays/)
@@ -276,11 +291,6 @@
 	- URL: [https://g10s.io/](https://g10s.io/)
         
 	- RSS: [https://g10s.io/rss/](https://g10s.io/rss/)
-- Graham Christensen 
-        
-	- URL: [http://grahamc.com/](http://grahamc.com/)
-        
-	- RSS: [https://grahamc.com/feed/index.xml](https://grahamc.com/feed/index.xml)
 - harmj0y 
         
 	- URL: [https://blog.harmj0y.net](https://blog.harmj0y.net)
@@ -291,6 +301,11 @@
 	- URL: [https://den.dev/](https://den.dev/)
         
 	- RSS: [https://den.dev/index.xml](https://den.dev/index.xml)
+- home on lyra's epic blog 
+        
+	- URL: [https://lyra.horse/blog/](https://lyra.horse/blog/)
+        
+	- RSS: [https://lyra.horse/blog/index.xml](https://lyra.horse/blog/index.xml)
 - blog.cloudflare 
         
 	- URL: [https://blog.cloudflare.com/rss/](https://blog.cloudflare.com/rss/)
@@ -358,14 +373,14 @@
 	- RSS: [https://www.vice.com/en/rss/section/tech?locale=en_us](https://www.vice.com/en/rss/section/tech?locale=en_us)
 - Isabel Roses 
         
-	- URL: [https://isabelroses.com/feed.xml](https://isabelroses.com/feed.xml)
-        
-	- RSS: [https://isabelroses.com/feed.xml](https://isabelroses.com/feed.xml)
-- Isabel Roses 
-        
 	- URL: [https://isabelroses.com](https://isabelroses.com)
         
 	- RSS: [https://isabelroses.com/feed.json](https://isabelroses.com/feed.json)
+- Isabel Roses 
+        
+	- URL: [https://isabelroses.com/feed.xml](https://isabelroses.com/feed.xml)
+        
+	- RSS: [https://isabelroses.com/feed.xml](https://isabelroses.com/feed.xml)
 - It's FOSS News 
         
 	- URL: [https://news.itsfoss.com/](https://news.itsfoss.com/)
@@ -481,6 +496,11 @@
 	- URL: [https://ntzyz.space/](https://ntzyz.space/)
         
 	- RSS: [https://ntzyz.space/index.xml](https://ntzyz.space/index.xml)
+- nullpt.rs • blog 
+        
+	- URL: [https://www.nullpt.rs/api/feed.rss](https://www.nullpt.rs/api/feed.rss)
+        
+	- RSS: [https://www.nullpt.rs/api/feed.rss](https://www.nullpt.rs/api/feed.rss)
 - OpenMetal IaaS 
         
 	- URL: [https://openmetal.io/](https://openmetal.io/)
@@ -511,6 +531,11 @@
 	- URL: [https://buzzert.net/posts/](https://buzzert.net/posts/)
         
 	- RSS: [https://buzzert.net/posts/feed.xml](https://buzzert.net/posts/feed.xml)
+- Posts on kiennt26's home 
+        
+	- URL: [https://ntk148v.github.io/posts/](https://ntk148v.github.io/posts/)
+        
+	- RSS: [https://ntk148v.github.io/posts/index.xml](https://ntk148v.github.io/posts/index.xml)
 - Posts on On LinuxLiaison 
         
 	- URL: [https://bnolet.me:443/posts/](https://bnolet.me:443/posts/)
@@ -686,6 +711,11 @@
 	- URL: [https://writing.bobdoto.computer/](https://writing.bobdoto.computer/)
         
 	- RSS: [https://writing.bobdoto.computer/feed/?type=rss](https://writing.bobdoto.computer/feed/?type=rss)
+- xyzeva's blog 
+        
+	- URL: [https://kibty.town/](https://kibty.town/)
+        
+	- RSS: [https://kibty.town/blog.json](https://kibty.town/blog.json)
 - Yegor Bugayenko 
         
 	- URL: [https://www.yegor256.com/](https://www.yegor256.com/)
