@@ -1,5 +1,5 @@
 # rss feeds
-> generated: 2024-08-05 00:21:57.869889
+> generated: 2024-08-12 00:22:17.748240
 
 - Welcome to my website on ayats.org 
         
@@ -16,6 +16,11 @@
 	- URL: [http://grahamc.com/](http://grahamc.com/)
         
 	- RSS: [https://grahamc.com/feed/index.xml](https://grahamc.com/feed/index.xml)
+- vice 
+        
+	- URL: [https://www.vice.com/en/rss/section/tech?locale=en_us](https://www.vice.com/en/rss/section/tech?locale=en_us)
+        
+	- RSS: [https://www.vice.com/en/rss/section/tech?locale=en_us](https://www.vice.com/en/rss/section/tech?locale=en_us)
 - icyphox 
         
 	- URL: [https://icyphox.sh/](https://icyphox.sh/)
@@ -306,6 +311,11 @@
 	- URL: [https://lyra.horse/blog/](https://lyra.horse/blog/)
         
 	- RSS: [https://lyra.horse/blog/index.xml](https://lyra.horse/blog/index.xml)
+- how.wtf 
+        
+	- URL: [https://how.wtf/](https://how.wtf/)
+        
+	- RSS: [https://how.wtf/index.xml](https://how.wtf/index.xml)
 - blog.cloudflare 
         
 	- URL: [https://blog.cloudflare.com/rss/](https://blog.cloudflare.com/rss/)
@@ -366,11 +376,6 @@
 	- URL: [https://www.matteomalvica.com/index.xml](https://www.matteomalvica.com/index.xml)
         
 	- RSS: [https://www.matteomalvica.com/index.xml](https://www.matteomalvica.com/index.xml)
-- vice 
-        
-	- URL: [https://www.vice.com/en/rss/section/tech?locale=en_us](https://www.vice.com/en/rss/section/tech?locale=en_us)
-        
-	- RSS: [https://www.vice.com/en/rss/section/tech?locale=en_us](https://www.vice.com/en/rss/section/tech?locale=en_us)
 - Isabel Roses 
         
 	- URL: [https://isabelroses.com](https://isabelroses.com)
