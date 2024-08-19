@@ -1,11 +1,16 @@
 # rss feeds
-> generated: 2024-08-12 00:22:17.748240
+> generated: 2024-08-19 00:21:51.912081
 
 - Welcome to my website on ayats.org 
         
 	- URL: [https://ayats.org/](https://ayats.org/)
         
 	- RSS: [https://ayats.org/index.xml](https://ayats.org/index.xml)
+- Essays - Kenneth Reitz 
+        
+	- URL: [https://kennethreitz.org/essays/](https://kennethreitz.org/essays/)
+        
+	- RSS: [https://kennethreitz.org/essays?format=rss](https://kennethreitz.org/essays?format=rss)
 - fleshless.org 
         
 	- URL: [https://fleshless.org](https://fleshless.org)
@@ -26,6 +31,11 @@
 	- URL: [https://icyphox.sh/](https://icyphox.sh/)
         
 	- RSS: [https://icyphox.sh/blog/feed.xml](https://icyphox.sh/blog/feed.xml)
+- moth.monster blog 
+        
+	- URL: [https://moth.monster/blog/](https://moth.monster/blog/)
+        
+	- RSS: [https://moth.monster/blog/feed.xml](https://moth.monster/blog/feed.xml)
 - Tangent Writes 
         
 	- URL: [https://blog.tangentfox.com:443](https://blog.tangentfox.com:443)
@@ -36,6 +46,11 @@
 	- URL: [https://ameyama.com](https://ameyama.com)
         
 	- RSS: [https://ameyama.com/blog/rss.xml](https://ameyama.com/blog/rss.xml)
+- Karneliuk 
+        
+	- URL: [https://karneliuk.com](https://karneliuk.com)
+        
+	- RSS: [https://karneliuk.com/feed/](https://karneliuk.com/feed/)
 - 404 Media 
         
 	- URL: [https://www.404media.co/](https://www.404media.co/)
@@ -261,11 +276,6 @@
 	- URL: [https://ericdaigle.ca/](https://ericdaigle.ca/)
         
 	- RSS: [https://www.ericdaigle.ca/atom.xml](https://www.ericdaigle.ca/atom.xml)
-- Essays - Kenneth Reitz 
-        
-	- URL: [https://kennethreitz.org/essays/](https://kennethreitz.org/essays/)
-        
-	- RSS: [https://kennethreitz.org/essays?format=rss](https://kennethreitz.org/essays?format=rss)
 - fasterthanli.me 
         
 	- URL: [https://fasterthanli.me](https://fasterthanli.me)
@@ -378,14 +388,14 @@
 	- RSS: [https://www.matteomalvica.com/index.xml](https://www.matteomalvica.com/index.xml)
 - Isabel Roses 
         
-	- URL: [https://isabelroses.com](https://isabelroses.com)
-        
-	- RSS: [https://isabelroses.com/feed.json](https://isabelroses.com/feed.json)
-- Isabel Roses 
-        
 	- URL: [https://isabelroses.com/feed.xml](https://isabelroses.com/feed.xml)
         
 	- RSS: [https://isabelroses.com/feed.xml](https://isabelroses.com/feed.xml)
+- Isabel Roses 
+        
+	- URL: [https://isabelroses.com](https://isabelroses.com)
+        
+	- RSS: [https://isabelroses.com/feed.json](https://isabelroses.com/feed.json)
 - It's FOSS News 
         
 	- URL: [https://news.itsfoss.com/](https://news.itsfoss.com/)
@@ -406,11 +416,6 @@
 	- URL: [http://jvns.ca](http://jvns.ca)
         
 	- RSS: [https://jvns.ca/atom.xml](https://jvns.ca/atom.xml)
-- Karneliuk 
-        
-	- URL: [https://karneliuk.com](https://karneliuk.com)
-        
-	- RSS: [https://karneliuk.com/feed/](https://karneliuk.com/feed/)
 - Kashyap’s blog 
         
 	- URL: [https://kgrz.io/](https://kgrz.io/)
@@ -456,11 +461,6 @@
 	- URL: [https://mitchellh.com/writing](https://mitchellh.com/writing)
         
 	- RSS: [https://mitchellh.com/feed.xml](https://mitchellh.com/feed.xml)
-- moth.monster blog 
-        
-	- URL: [https://moth.monster/blog/](https://moth.monster/blog/)
-        
-	- RSS: [https://moth.monster/blog/feed.xml](https://moth.monster/blog/feed.xml)
 - Moxie Marlinspike 
         
 	- URL: [https://moxie.org/](https://moxie.org/)
@@ -680,12 +680,12 @@
         
 	- URL: [https://geohot.github.io//blog/](https://geohot.github.io//blog/)
         
-	- RSS: [https://geohot.github.io//blog/feed.xml](https://geohot.github.io//blog/feed.xml)
+	- RSS: [https://geohot.github.io/blog/feed.xml](https://geohot.github.io/blog/feed.xml)
 - the singularity is nearer 
         
 	- URL: [https://geohot.github.io//blog/](https://geohot.github.io//blog/)
         
-	- RSS: [https://geohot.github.io/blog/feed.xml](https://geohot.github.io/blog/feed.xml)
+	- RSS: [https://geohot.github.io//blog/feed.xml](https://geohot.github.io//blog/feed.xml)
 - Tigran Hakobyan's personal blog 
         
 	- URL: [https://tik.dev/blog](https://tik.dev/blog)
