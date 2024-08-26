@@ -1,5 +1,5 @@
 # rss feeds
-> generated: 2024-08-19 00:21:51.912081
+> generated: 2024-08-26 00:21:49.895009
 
 - Welcome to my website on ayats.org 
         
@@ -31,6 +31,11 @@
 	- URL: [https://icyphox.sh/](https://icyphox.sh/)
         
 	- RSS: [https://icyphox.sh/blog/feed.xml](https://icyphox.sh/blog/feed.xml)
+- Karneliuk 
+        
+	- URL: [https://karneliuk.com](https://karneliuk.com)
+        
+	- RSS: [https://karneliuk.com/feed/](https://karneliuk.com/feed/)
 - moth.monster blog 
         
 	- URL: [https://moth.monster/blog/](https://moth.monster/blog/)
@@ -46,11 +51,6 @@
 	- URL: [https://ameyama.com](https://ameyama.com)
         
 	- RSS: [https://ameyama.com/blog/rss.xml](https://ameyama.com/blog/rss.xml)
-- Karneliuk 
-        
-	- URL: [https://karneliuk.com](https://karneliuk.com)
-        
-	- RSS: [https://karneliuk.com/feed/](https://karneliuk.com/feed/)
 - 404 Media 
         
 	- URL: [https://www.404media.co/](https://www.404media.co/)
@@ -386,6 +386,11 @@
 	- URL: [https://www.matteomalvica.com/index.xml](https://www.matteomalvica.com/index.xml)
         
 	- RSS: [https://www.matteomalvica.com/index.xml](https://www.matteomalvica.com/index.xml)
+- Import AI 
+        
+	- URL: [https://jack-clark.net](https://jack-clark.net)
+        
+	- RSS: [https://jack-clark.net/feed/](https://jack-clark.net/feed/)
 - Isabel Roses 
         
 	- URL: [https://isabelroses.com/feed.xml](https://isabelroses.com/feed.xml)
@@ -680,12 +685,12 @@
         
 	- URL: [https://geohot.github.io//blog/](https://geohot.github.io//blog/)
         
-	- RSS: [https://geohot.github.io/blog/feed.xml](https://geohot.github.io/blog/feed.xml)
+	- RSS: [https://geohot.github.io//blog/feed.xml](https://geohot.github.io//blog/feed.xml)
 - the singularity is nearer 
         
 	- URL: [https://geohot.github.io//blog/](https://geohot.github.io//blog/)
         
-	- RSS: [https://geohot.github.io//blog/feed.xml](https://geohot.github.io//blog/feed.xml)
+	- RSS: [https://geohot.github.io/blog/feed.xml](https://geohot.github.io/blog/feed.xml)
 - Tigran Hakobyan's personal blog 
         
 	- URL: [https://tik.dev/blog](https://tik.dev/blog)
