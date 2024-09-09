@@ -1,11 +1,21 @@
 # rss feeds
-> generated: 2024-08-26 00:21:49.895009
+> generated: 2024-09-09 00:24:03.176135
 
 - Welcome to my website on ayats.org 
         
 	- URL: [https://ayats.org/](https://ayats.org/)
         
 	- RSS: [https://ayats.org/index.xml](https://ayats.org/index.xml)
+- astrid.tech 
+        
+	- URL: [https://astrid.tech](https://astrid.tech)
+        
+	- RSS: [https://astrid.tech/feed.xml](https://astrid.tech/feed.xml)
+- cafkafk 
+        
+	- URL: [https://cafkafk.dev/](https://cafkafk.dev/)
+        
+	- RSS: [https://cafkafk.dev/index.xml](https://cafkafk.dev/index.xml)
 - Essays - Kenneth Reitz 
         
 	- URL: [https://kennethreitz.org/essays/](https://kennethreitz.org/essays/)
@@ -21,6 +31,11 @@
 	- URL: [http://grahamc.com/](http://grahamc.com/)
         
 	- RSS: [https://grahamc.com/feed/index.xml](https://grahamc.com/feed/index.xml)
+- blog.cloudflare 
+        
+	- URL: [https://blog.cloudflare.com/rss/](https://blog.cloudflare.com/rss/)
+        
+	- RSS: [https://blog.cloudflare.com/rss/](https://blog.cloudflare.com/rss/)
 - vice 
         
 	- URL: [https://www.vice.com/en/rss/section/tech?locale=en_us](https://www.vice.com/en/rss/section/tech?locale=en_us)
@@ -86,11 +101,6 @@
 	- URL: [https://dannb.org/blog/](https://dannb.org/blog/)
         
 	- RSS: [https://dannb.org/blog/index.xml](https://dannb.org/blog/index.xml)
-- astrid.tech 
-        
-	- URL: [https://astrid.tech](https://astrid.tech)
-        
-	- RSS: [https://astrid.tech/feed.xml](https://astrid.tech/feed.xml)
 - atthis.link 
         
 	- URL: [https://atthis.link](https://atthis.link)
@@ -181,11 +191,6 @@
 	- URL: [https://cadence.moe/blog](https://cadence.moe/blog)
         
 	- RSS: [https://cadence.moe/blog/rss.xml?limit=30](https://cadence.moe/blog/rss.xml?limit=30)
-- cafkafk 
-        
-	- URL: [https://cafkafk.dev/](https://cafkafk.dev/)
-        
-	- RSS: [https://cafkafk.dev/index.xml](https://cafkafk.dev/index.xml)
 - ChaelCodes 
         
 	- URL: [https://www.chael.codes/](https://www.chael.codes/)
@@ -326,11 +331,6 @@
 	- URL: [https://how.wtf/](https://how.wtf/)
         
 	- RSS: [https://how.wtf/index.xml](https://how.wtf/index.xml)
-- blog.cloudflare 
-        
-	- URL: [https://blog.cloudflare.com/rss/](https://blog.cloudflare.com/rss/)
-        
-	- RSS: [https://blog.cloudflare.com/rss/](https://blog.cloudflare.com/rss/)
 - blog.jessfraz 
         
 	- URL: [https://blog.jessfraz.com/index.xml](https://blog.jessfraz.com/index.xml)
