@@ -6,7 +6,7 @@ from datetime import datetime
 target_file = "README.md"
 
 if path.exists(target_file): remove(target_file)
-core_url = getenv("MINIFLUX_API_URL", "https://rss.hjkl.no")
+core_url = getenv("MINIFLUX_API_URL", "https://rss.hen-gorgon.ts.net")
 api_key = getenv("MINIFLUX_API_KEY", "REDACTED")
 
 client = miniflux.Client(core_url, api_key=api_key)
