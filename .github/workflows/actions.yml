@@ -10,17 +10,17 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Tailscale
-        uses: tailscale/github-action@v2
+        uses: tailscale/github-action@v3
         with:
-          oauth-client-id: ${{ secrets.TS_OAUTH_CLIENT_ID }}
-          oauth-secret: ${{ secrets.TS_OAUTH_SECRET }}
+          authkey: ${{ secrets.TS_AUTH_KEY }} 
+          statedir: /tmp/tailscale-state/
+
       - name: checkout repo content
         uses: actions/checkout@v2
 
       - name: setup python
         uses: actions/setup-python@v4
         with:
-          #ref: ${{ github.head_ref }}
           python-version: '3.11'
 
       - name: install python packages
