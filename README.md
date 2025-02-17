@@ -1,5 +1,5 @@
 # rss feeds
-> generated: 2025-02-10 00:24:17.557208
+> generated: 2025-02-17 00:25:12.275740
 
 - Welcome to my website on ayats.org 
         
@@ -51,6 +51,11 @@
 	- URL: [https://wozniak.ca/blog](https://wozniak.ca/blog)
         
 	- RSS: [https://wozniak.ca/blog/rss.xml](https://wozniak.ca/blog/rss.xml)
+- Educated Guesswork 
+        
+	- URL: [https://educatedguesswork.org](https://educatedguesswork.org)
+        
+	- RSS: [https://educatedguesswork.org/feed/feed.json](https://educatedguesswork.org/feed/feed.json)
 - icyphox 
         
 	- URL: [https://icyphox.sh/](https://icyphox.sh/)
@@ -271,11 +276,6 @@
 	- URL: [https://sizovs.net/](https://sizovs.net/)
         
 	- RSS: [https://sizovs.net/feed.xml](https://sizovs.net/feed.xml)
-- Educated Guesswork 
-        
-	- URL: [https://educatedguesswork.org](https://educatedguesswork.org)
-        
-	- RSS: [https://educatedguesswork.org/feed/feed.json](https://educatedguesswork.org/feed/feed.json)
 - Electronic Frontier Foundation 
         
 	- URL: [https://www.eff.org](https://www.eff.org)
