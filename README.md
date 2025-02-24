@@ -1,5 +1,5 @@
 # rss feeds
-> generated: 2025-02-17 00:25:12.275740
+> generated: 2025-02-24 00:24:54.043718
 
 - Welcome to my website on ayats.org 
         
@@ -61,6 +61,11 @@
 	- URL: [https://icyphox.sh/](https://icyphox.sh/)
         
 	- RSS: [https://icyphox.sh/blog/feed.xml](https://icyphox.sh/blog/feed.xml)
+- Karneliuk 
+        
+	- URL: [https://karneliuk.com](https://karneliuk.com)
+        
+	- RSS: [https://karneliuk.com/feed/](https://karneliuk.com/feed/)
 - moth.monster blog 
         
 	- URL: [https://moth.monster/blog/](https://moth.monster/blog/)
@@ -446,11 +451,6 @@
 	- URL: [http://jvns.ca](http://jvns.ca)
         
 	- RSS: [https://jvns.ca/atom.xml](https://jvns.ca/atom.xml)
-- Karneliuk 
-        
-	- URL: [https://karneliuk.com](https://karneliuk.com)
-        
-	- RSS: [https://karneliuk.com/feed/](https://karneliuk.com/feed/)
 - Kashyap’s blog 
         
 	- URL: [https://kgrz.io/](https://kgrz.io/)
@@ -486,6 +486,11 @@
 	- URL: [https://maia.crimew.gay](https://maia.crimew.gay)
         
 	- RSS: [https://maia.crimew.gay/feed.xml](https://maia.crimew.gay/feed.xml)
+- marcan.st 
+        
+	- URL: [https://marcan.st/](https://marcan.st/)
+        
+	- RSS: [https://marcan.st/index.xml](https://marcan.st/index.xml)
 - Mitchell Hashimoto 
         
 	- URL: [https://mitchellh.com/writing](https://mitchellh.com/writing)
