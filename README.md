@@ -1,5 +1,5 @@
 # rss feeds
-> generated: 2025-02-24 00:24:54.043718
+> generated: 2025-03-03 00:25:17.802525
 
 - Welcome to my website on ayats.org 
         
@@ -46,6 +46,11 @@
 	- URL: [https://catgirl.homes/~ako/blog/rss](https://catgirl.homes/~ako/blog/rss)
         
 	- RSS: [https://catgirl.homes/~ako/blog/rss.xml](https://catgirl.homes/~ako/blog/rss.xml)
+- Brendan Gregg's Blog 
+        
+	- URL: [http://www.brendangregg.com/blog](http://www.brendangregg.com/blog)
+        
+	- RSS: [https://www.brendangregg.com/blog/rss.xml](https://www.brendangregg.com/blog/rss.xml)
 - Curried Lambda 
         
 	- URL: [https://wozniak.ca/blog](https://wozniak.ca/blog)
@@ -181,11 +186,6 @@
 	- URL: [http://blog.bonnieeisenman.com](http://blog.bonnieeisenman.com)
         
 	- RSS: [https://blog.bonnieeisenman.com/feed.xml](https://blog.bonnieeisenman.com/feed.xml)
-- Brendan Gregg's Blog 
-        
-	- URL: [http://www.brendangregg.com/blog](http://www.brendangregg.com/blog)
-        
-	- RSS: [https://www.brendangregg.com/blog/rss.xml](https://www.brendangregg.com/blog/rss.xml)
 - BrightProgrammer 
         
 	- URL: [https://brightprogrammer.netlify.app/](https://brightprogrammer.netlify.app/)
