@@ -1,5 +1,5 @@
 # rss feeds
-> generated: 2025-03-03 00:25:17.802525
+> generated: 2025-03-10 00:21:08.645077
 
 - Welcome to my website on ayats.org 
         
@@ -41,61 +41,6 @@
 	- URL: [https://ericdaigle.ca/](https://ericdaigle.ca/)
         
 	- RSS: [https://www.ericdaigle.ca/atom.xml](https://www.ericdaigle.ca/atom.xml)
-- Ako's Nyotebook 
-        
-	- URL: [https://catgirl.homes/~ako/blog/rss](https://catgirl.homes/~ako/blog/rss)
-        
-	- RSS: [https://catgirl.homes/~ako/blog/rss.xml](https://catgirl.homes/~ako/blog/rss.xml)
-- Brendan Gregg's Blog 
-        
-	- URL: [http://www.brendangregg.com/blog](http://www.brendangregg.com/blog)
-        
-	- RSS: [https://www.brendangregg.com/blog/rss.xml](https://www.brendangregg.com/blog/rss.xml)
-- Curried Lambda 
-        
-	- URL: [https://wozniak.ca/blog](https://wozniak.ca/blog)
-        
-	- RSS: [https://wozniak.ca/blog/rss.xml](https://wozniak.ca/blog/rss.xml)
-- Educated Guesswork 
-        
-	- URL: [https://educatedguesswork.org](https://educatedguesswork.org)
-        
-	- RSS: [https://educatedguesswork.org/feed/feed.json](https://educatedguesswork.org/feed/feed.json)
-- icyphox 
-        
-	- URL: [https://icyphox.sh/](https://icyphox.sh/)
-        
-	- RSS: [https://icyphox.sh/blog/feed.xml](https://icyphox.sh/blog/feed.xml)
-- Karneliuk 
-        
-	- URL: [https://karneliuk.com](https://karneliuk.com)
-        
-	- RSS: [https://karneliuk.com/feed/](https://karneliuk.com/feed/)
-- moth.monster blog 
-        
-	- URL: [https://moth.monster/blog/](https://moth.monster/blog/)
-        
-	- RSS: [https://moth.monster/blog/feed.xml](https://moth.monster/blog/feed.xml)
-- Nire Bryce 
-        
-	- URL: [https://cohost.org/NireBryce](https://cohost.org/NireBryce)
-        
-	- RSS: [https://cohost.org/NireBryce/rss/public.json](https://cohost.org/NireBryce/rss/public.json)
-- Sagar's Blog 
-        
-	- URL: [https://girisagar46.github.io/](https://girisagar46.github.io/)
-        
-	- RSS: [https://sagargiri.com/feeds/all.atom.xml](https://sagargiri.com/feeds/all.atom.xml)
-- Tangent Writes 
-        
-	- URL: [https://blog.tangentfox.com:443](https://blog.tangentfox.com:443)
-        
-	- RSS: [https://blog.tangentfox.com:443/feed/](https://blog.tangentfox.com:443/feed/)
-- 雨山 
-        
-	- URL: [https://ameyama.com](https://ameyama.com)
-        
-	- RSS: [https://ameyama.com/blog/rss.xml](https://ameyama.com/blog/rss.xml)
 - 404 Media 
         
 	- URL: [https://www.404media.co/](https://www.404media.co/)
@@ -106,6 +51,11 @@
 	- URL: [https://ahmet.im/blog/](https://ahmet.im/blog/)
         
 	- RSS: [https://ahmet.im/blog/feed/rss.xml](https://ahmet.im/blog/feed/rss.xml)
+- Ako's Nyotebook 
+        
+	- URL: [https://catgirl.homes/~ako/blog/rss](https://catgirl.homes/~ako/blog/rss)
+        
+	- RSS: [https://catgirl.homes/~ako/blog/rss.xml](https://catgirl.homes/~ako/blog/rss.xml)
 - Ameya's blog 
         
 	- URL: [http://juggernaut.github.io/](http://juggernaut.github.io/)
@@ -186,6 +136,11 @@
 	- URL: [http://blog.bonnieeisenman.com](http://blog.bonnieeisenman.com)
         
 	- RSS: [https://blog.bonnieeisenman.com/feed.xml](https://blog.bonnieeisenman.com/feed.xml)
+- Brendan Gregg's Blog 
+        
+	- URL: [http://www.brendangregg.com/blog](http://www.brendangregg.com/blog)
+        
+	- RSS: [https://www.brendangregg.com/blog/rss.xml](https://www.brendangregg.com/blog/rss.xml)
 - BrightProgrammer 
         
 	- URL: [https://brightprogrammer.netlify.app/](https://brightprogrammer.netlify.app/)
@@ -266,6 +221,11 @@
 	- URL: [https://blog.jonasbengtson.se](https://blog.jonasbengtson.se)
         
 	- RSS: [https://blog.jonasbengtson.se/feed.rss](https://blog.jonasbengtson.se/feed.rss)
+- Curried Lambda 
+        
+	- URL: [https://wozniak.ca/blog](https://wozniak.ca/blog)
+        
+	- RSS: [https://wozniak.ca/blog/rss.xml](https://wozniak.ca/blog/rss.xml)
 - D. Moonfire 
         
 	- URL: [https://d.moonfire.us/](https://d.moonfire.us/)
@@ -281,6 +241,11 @@
 	- URL: [https://sizovs.net/](https://sizovs.net/)
         
 	- RSS: [https://sizovs.net/feed.xml](https://sizovs.net/feed.xml)
+- Educated Guesswork 
+        
+	- URL: [https://educatedguesswork.org](https://educatedguesswork.org)
+        
+	- RSS: [https://educatedguesswork.org/feed/feed.json](https://educatedguesswork.org/feed/feed.json)
 - Electronic Frontier Foundation 
         
 	- URL: [https://www.eff.org](https://www.eff.org)
@@ -416,6 +381,11 @@
 	- URL: [https://www.matteomalvica.com/index.xml](https://www.matteomalvica.com/index.xml)
         
 	- RSS: [https://www.matteomalvica.com/index.xml](https://www.matteomalvica.com/index.xml)
+- icyphox 
+        
+	- URL: [https://icyphox.sh/](https://icyphox.sh/)
+        
+	- RSS: [https://icyphox.sh/blog/feed.xml](https://icyphox.sh/blog/feed.xml)
 - IEEE Spectrum 
         
 	- URL: [https://spectrum.ieee.org/](https://spectrum.ieee.org/)
@@ -451,6 +421,11 @@
 	- URL: [http://jvns.ca](http://jvns.ca)
         
 	- RSS: [https://jvns.ca/atom.xml](https://jvns.ca/atom.xml)
+- Karneliuk 
+        
+	- URL: [https://karneliuk.com](https://karneliuk.com)
+        
+	- RSS: [https://karneliuk.com/feed/](https://karneliuk.com/feed/)
 - Kashyap’s blog 
         
 	- URL: [https://kgrz.io/](https://kgrz.io/)
@@ -496,6 +471,11 @@
 	- URL: [https://mitchellh.com/writing](https://mitchellh.com/writing)
         
 	- RSS: [https://mitchellh.com/feed.xml](https://mitchellh.com/feed.xml)
+- moth.monster blog 
+        
+	- URL: [https://moth.monster/blog/](https://moth.monster/blog/)
+        
+	- RSS: [https://moth.monster/blog/feed.xml](https://moth.monster/blog/feed.xml)
 - Moxie Marlinspike 
         
 	- URL: [https://moxie.org/](https://moxie.org/)
@@ -516,6 +496,11 @@
 	- URL: [https://networklore.com/](https://networklore.com/)
         
 	- RSS: [http://feeds.networklore.com/Networklore](http://feeds.networklore.com/Networklore)
+- Nire Bryce 
+        
+	- URL: [https://cohost.org/NireBryce](https://cohost.org/NireBryce)
+        
+	- RSS: [https://cohost.org/NireBryce/rss/public.json](https://cohost.org/NireBryce/rss/public.json)
 - nixpkgs.news 
         
 	- URL: [https://nixpkgs.news/](https://nixpkgs.news/)
@@ -621,6 +606,11 @@
 	- URL: [https://rolisz.ro/](https://rolisz.ro/)
         
 	- RSS: [https://rolisz.ro/rss/](https://rolisz.ro/rss/)
+- Sagar's Blog 
+        
+	- URL: [https://girisagar46.github.io/](https://girisagar46.github.io/)
+        
+	- RSS: [https://sagargiri.com/feeds/all.atom.xml](https://sagargiri.com/feeds/all.atom.xml)
 - Scott Helme 
         
 	- URL: [https://scotthelme.co.uk/](https://scotthelme.co.uk/)
@@ -666,6 +656,11 @@
 	- URL: [https://www.sickenger.com](https://www.sickenger.com)
         
 	- RSS: [https://www.sickenger.com/feed/](https://www.sickenger.com/feed/)
+- Tangent Writes 
+        
+	- URL: [https://blog.tangentfox.com:443](https://blog.tangentfox.com:443)
+        
+	- RSS: [https://blog.tangentfox.com:443/feed/](https://blog.tangentfox.com:443/feed/)
 - Tania Rascia | RSS Feed 
         
 	- URL: [https://www.taniarascia.com](https://www.taniarascia.com)
@@ -705,12 +700,12 @@
         
 	- URL: [https://geohot.github.io//blog/](https://geohot.github.io//blog/)
         
-	- RSS: [https://geohot.github.io/blog/feed.xml](https://geohot.github.io/blog/feed.xml)
+	- RSS: [https://geohot.github.io//blog/feed.xml](https://geohot.github.io//blog/feed.xml)
 - the singularity is nearer 
         
 	- URL: [https://geohot.github.io//blog/](https://geohot.github.io//blog/)
         
-	- RSS: [https://geohot.github.io//blog/feed.xml](https://geohot.github.io//blog/feed.xml)
+	- RSS: [https://geohot.github.io/blog/feed.xml](https://geohot.github.io/blog/feed.xml)
 - Unikum 
         
 	- URL: [https://www.unikumnett.no](https://www.unikumnett.no)
@@ -756,3 +751,8 @@
 	- URL: [https://herman.bearblog.dev/](https://herman.bearblog.dev/)
         
 	- RSS: [https://herman.bearblog.dev/feed/?type=rss](https://herman.bearblog.dev/feed/?type=rss)
+- 雨山 
+        
+	- URL: [https://ameyama.com](https://ameyama.com)
+        
+	- RSS: [https://ameyama.com/blog/rss.xml](https://ameyama.com/blog/rss.xml)
