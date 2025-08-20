@@ -1,5 +1,5 @@
 # rss feeds
-> generated: 2025-04-28 00:27:19.693346
+> generated: 2025-08-20 08:14:06.702567
 
 - Welcome to my website on ayats.org 
         
@@ -11,11 +11,6 @@
 	- URL: [https://kennethreitz.org/essays/](https://kennethreitz.org/essays/)
         
 	- RSS: [https://kennethreitz.org/essays?format=rss](https://kennethreitz.org/essays?format=rss)
-- vice 
-        
-	- URL: [https://www.vice.com/en/rss/section/tech?locale=en_us](https://www.vice.com/en/rss/section/tech?locale=en_us)
-        
-	- RSS: [https://www.vice.com/en/rss/section/tech?locale=en_us](https://www.vice.com/en/rss/section/tech?locale=en_us)
 - Sean Blanda 
         
 	- URL: [https://www.seanblanda.com/](https://www.seanblanda.com/)
@@ -41,11 +36,66 @@
 	- URL: [https://ericdaigle.ca/](https://ericdaigle.ca/)
         
 	- RSS: [https://www.ericdaigle.ca/atom.xml](https://www.ericdaigle.ca/atom.xml)
-- 404 Media 
+- christine 
         
-	- URL: [https://www.404media.co/](https://www.404media.co/)
+	- URL: [https://christine.website/blog.rss](https://christine.website/blog.rss)
         
-	- RSS: [https://www.404media.co/rss/](https://www.404media.co/rss/)
+	- RSS: [https://christine.website/blog.rss](https://christine.website/blog.rss)
+- Nire Bryce 
+        
+	- URL: [https://cohost.org/NireBryce](https://cohost.org/NireBryce)
+        
+	- RSS: [https://cohost.org/NireBryce/rss/public.json](https://cohost.org/NireBryce/rss/public.json)
+- 雨山 
+        
+	- URL: [https://ameyama.com](https://ameyama.com)
+        
+	- RSS: [https://ameyama.com/blog/rss.xml](https://ameyama.com/blog/rss.xml)
+- nullpt.rs • blog 
+        
+	- URL: [https://www.nullpt.rs/api/feed.rss](https://www.nullpt.rs/api/feed.rss)
+        
+	- RSS: [https://www.nullpt.rs/api/feed.rss](https://www.nullpt.rs/api/feed.rss)
+- Posts on Seirdy’s Home 
+        
+	- URL: [https://seirdy.one/posts/atom.xml](https://seirdy.one/posts/atom.xml)
+        
+	- RSS: [https://seirdy.one/posts/atom.xml](https://seirdy.one/posts/atom.xml)
+- Siddharth Dushantha 
+        
+	- URL: [https://sdushantha.github.io/](https://sdushantha.github.io/)
+        
+	- RSS: [https://sdushantha.github.io/index.xml](https://sdushantha.github.io/index.xml)
+- Fatih Arslan 
+        
+	- URL: [https://arslan.io/](https://arslan.io/)
+        
+	- RSS: [https://arslan.io/rss/](https://arslan.io/rss/)
+- harmj0y 
+        
+	- URL: [https://blog.harmj0y.net](https://blog.harmj0y.net)
+        
+	- RSS: [https://blog.harmj0y.net/feed/](https://blog.harmj0y.net/feed/)
+- lwn 
+        
+	- URL: [https://lwn.net/headlines/newrss](https://lwn.net/headlines/newrss)
+        
+	- RSS: [https://lwn.net/headlines/newrss](https://lwn.net/headlines/newrss)
+- netflixtechblog 
+        
+	- URL: [https://netflixtechblog.com/feed](https://netflixtechblog.com/feed)
+        
+	- RSS: [https://netflixtechblog.com/feed](https://netflixtechblog.com/feed)
+- Karneliuk 
+        
+	- URL: [https://karneliuk.com](https://karneliuk.com)
+        
+	- RSS: [https://karneliuk.com/feed/](https://karneliuk.com/feed/)
+- maia blog 
+        
+	- URL: [https://maia.crimew.gay](https://maia.crimew.gay)
+        
+	- RSS: [https://maia.crimew.gay/feed.xml](https://maia.crimew.gay/feed.xml)
 - Ahmet Alp Balkan 
         
 	- URL: [https://ahmet.im/blog/](https://ahmet.im/blog/)
@@ -266,11 +316,6 @@
 	- URL: [https://fasterthanli.me](https://fasterthanli.me)
         
 	- RSS: [https://fasterthanli.me/index.xml](https://fasterthanli.me/index.xml)
-- Fatih Arslan 
-        
-	- URL: [https://arslan.io/](https://arslan.io/)
-        
-	- RSS: [https://arslan.io/rss/](https://arslan.io/rss/)
 - Faultlore 
         
 	- URL: [https://gankra.github.io/blah/](https://gankra.github.io/blah/)
@@ -301,11 +346,6 @@
 	- URL: [http://grahamc.com/](http://grahamc.com/)
         
 	- RSS: [https://grahamc.com/feed/index.xml](https://grahamc.com/feed/index.xml)
-- harmj0y 
-        
-	- URL: [https://blog.harmj0y.net](https://blog.harmj0y.net)
-        
-	- RSS: [https://blog.harmj0y.net/feed/](https://blog.harmj0y.net/feed/)
 - Hi, I'm Den :wave: on Den Delimarsky 
         
 	- URL: [https://den.dev/](https://den.dev/)
@@ -321,11 +361,6 @@
 	- URL: [https://how.wtf/](https://how.wtf/)
         
 	- RSS: [https://how.wtf/index.xml](https://how.wtf/index.xml)
-- blog.cloudflare 
-        
-	- URL: [https://blog.cloudflare.com/rss/](https://blog.cloudflare.com/rss/)
-        
-	- RSS: [https://blog.cloudflare.com/rss/](https://blog.cloudflare.com/rss/)
 - blog.jessfraz 
         
 	- URL: [https://blog.jessfraz.com/index.xml](https://blog.jessfraz.com/index.xml)
@@ -336,11 +371,6 @@
 	- URL: [https://carolynvanslyck.com/blog/index.xml](https://carolynvanslyck.com/blog/index.xml)
         
 	- RSS: [https://carolynvanslyck.com/blog/index.xml](https://carolynvanslyck.com/blog/index.xml)
-- christine 
-        
-	- URL: [https://christine.website/blog.rss](https://christine.website/blog.rss)
-        
-	- RSS: [https://christine.website/blog.rss](https://christine.website/blog.rss)
 - danluu 
         
 	- URL: [https://danluu.com/atom/index.xml](https://danluu.com/atom/index.xml)
@@ -351,21 +381,11 @@
 	- URL: [https://lucperkins.dev/blog/index.xml](https://lucperkins.dev/blog/index.xml)
         
 	- RSS: [https://lucperkins.dev/blog/index.xml](https://lucperkins.dev/blog/index.xml)
-- lwn 
-        
-	- URL: [https://lwn.net/headlines/newrss](https://lwn.net/headlines/newrss)
-        
-	- RSS: [https://lwn.net/headlines/newrss](https://lwn.net/headlines/newrss)
 - medium 
         
 	- URL: [https://medium.com/feed/strava-engineering](https://medium.com/feed/strava-engineering)
         
 	- RSS: [https://medium.com/feed/strava-engineering](https://medium.com/feed/strava-engineering)
-- netflixtechblog 
-        
-	- URL: [https://netflixtechblog.com/feed](https://netflixtechblog.com/feed)
-        
-	- RSS: [https://netflixtechblog.com/feed](https://netflixtechblog.com/feed)
 - nrkbeta 
         
 	- URL: [https://nrkbeta.no/feed/](https://nrkbeta.no/feed/)
@@ -391,11 +411,6 @@
 	- URL: [https://spectrum.ieee.org/](https://spectrum.ieee.org/)
         
 	- RSS: [https://spectrum.ieee.org/feeds/feed.rss](https://spectrum.ieee.org/feeds/feed.rss)
-- Import AI 
-        
-	- URL: [https://jack-clark.net](https://jack-clark.net)
-        
-	- RSS: [https://jack-clark.net/feed/](https://jack-clark.net/feed/)
 - Isabel Roses 
         
 	- URL: [https://isabelroses.com/feed.xml](https://isabelroses.com/feed.xml)
@@ -416,16 +431,16 @@
 	- URL: [https://www.jeffgeerling.com/](https://www.jeffgeerling.com/)
         
 	- RSS: [https://www.jeffgeerling.com/blog.xml](https://www.jeffgeerling.com/blog.xml)
+- Jelly's blog 
+        
+	- URL: [https://vdwaa.nl/](https://vdwaa.nl/)
+        
+	- RSS: [https://vdwaa.nl/feeds/all.atom.xml](https://vdwaa.nl/feeds/all.atom.xml)
 - Julia Evans 
         
 	- URL: [http://jvns.ca](http://jvns.ca)
         
 	- RSS: [https://jvns.ca/atom.xml](https://jvns.ca/atom.xml)
-- Karneliuk 
-        
-	- URL: [https://karneliuk.com](https://karneliuk.com)
-        
-	- RSS: [https://karneliuk.com/feed/](https://karneliuk.com/feed/)
 - Kashyap’s blog 
         
 	- URL: [https://kgrz.io/](https://kgrz.io/)
@@ -456,11 +471,6 @@
 	- URL: [https://www.lumi-supercomputer.eu](https://www.lumi-supercomputer.eu)
         
 	- RSS: [https://www.lumi-supercomputer.eu/feed/](https://www.lumi-supercomputer.eu/feed/)
-- maia blog 
-        
-	- URL: [https://maia.crimew.gay](https://maia.crimew.gay)
-        
-	- RSS: [https://maia.crimew.gay/feed.xml](https://maia.crimew.gay/feed.xml)
 - marcan.st 
         
 	- URL: [https://marcan.st/](https://marcan.st/)
@@ -496,11 +506,6 @@
 	- URL: [https://networklore.com/](https://networklore.com/)
         
 	- RSS: [http://feeds.networklore.com/Networklore](http://feeds.networklore.com/Networklore)
-- Nire Bryce 
-        
-	- URL: [https://cohost.org/NireBryce](https://cohost.org/NireBryce)
-        
-	- RSS: [https://cohost.org/NireBryce/rss/public.json](https://cohost.org/NireBryce/rss/public.json)
 - nixpkgs.news 
         
 	- URL: [https://nixpkgs.news/](https://nixpkgs.news/)
@@ -516,16 +521,6 @@
 	- URL: [https://ntzyz.space/](https://ntzyz.space/)
         
 	- RSS: [https://ntzyz.space/index.xml](https://ntzyz.space/index.xml)
-- nullpt.rs • blog 
-        
-	- URL: [https://www.nullpt.rs/api/feed.rss](https://www.nullpt.rs/api/feed.rss)
-        
-	- RSS: [https://www.nullpt.rs/api/feed.rss](https://www.nullpt.rs/api/feed.rss)
-- OpenMetal IaaS 
-        
-	- URL: [https://openmetal.io/](https://openmetal.io/)
-        
-	- RSS: [https://openmetal.io/feed/](https://openmetal.io/feed/)
 - Paul Graham: Essays 
         
 	- URL: [http://www.paulgraham.com/](http://www.paulgraham.com/)
@@ -541,11 +536,6 @@
 	- URL: [https://www.esgeroth.org/log/](https://www.esgeroth.org/log/)
         
 	- RSS: [https://www.esgeroth.org/log/feeds/tech](https://www.esgeroth.org/log/feeds/tech)
-- PinkNews | Latest lesbian, gay, bi and trans news | LGBTQ+ news 
-        
-	- URL: [https://www.thepinknews.com/](https://www.thepinknews.com/)
-        
-	- RSS: [https://www.thepinknews.com/feed/](https://www.thepinknews.com/feed/)
 - Plex Labs - Medium 
         
 	- URL: [https://medium.com/plexlabs?source=rss----81427d4f0770---4](https://medium.com/plexlabs?source=rss----81427d4f0770---4)
@@ -566,11 +556,6 @@
 	- URL: [https://bnolet.me:443/posts/](https://bnolet.me:443/posts/)
         
 	- RSS: [https://bnolet.me/posts/index.xml](https://bnolet.me/posts/index.xml)
-- Posts on Seirdy’s Home 
-        
-	- URL: [https://seirdy.one/posts/atom.xml](https://seirdy.one/posts/atom.xml)
-        
-	- RSS: [https://seirdy.one/posts/atom.xml](https://seirdy.one/posts/atom.xml)
 - Posts on Three Letter Acronym 
         
 	- URL: [https://tla.wtf/posts/](https://tla.wtf/posts/)
@@ -591,16 +576,6 @@
 	- URL: [https://raphlinus.github.io/](https://raphlinus.github.io/)
         
 	- RSS: [https://raphlinus.github.io/feed.xml](https://raphlinus.github.io/feed.xml)
-- Release notes from k9s 
-        
-	- URL: [https://github.com/derailed/k9s/releases](https://github.com/derailed/k9s/releases)
-        
-	- RSS: [https://github.com/derailed/k9s/releases.atom](https://github.com/derailed/k9s/releases.atom)
-- Release notes from kubectl 
-        
-	- URL: [https://github.com/kubernetes/kubectl/releases](https://github.com/kubernetes/kubectl/releases)
-        
-	- RSS: [https://github.com/kubernetes/kubectl/releases.atom](https://github.com/kubernetes/kubectl/releases.atom)
 - rolisz's blog 
         
 	- URL: [https://rolisz.ro/](https://rolisz.ro/)
@@ -621,11 +596,6 @@
 	- URL: [https://shen.hong.io/](https://shen.hong.io/)
         
 	- RSS: [https://shen.hong.io/rss/](https://shen.hong.io/rss/)
-- Siddharth Dushantha 
-        
-	- URL: [https://sdushantha.github.io/](https://sdushantha.github.io/)
-        
-	- RSS: [https://sdushantha.github.io/index.xml](https://sdushantha.github.io/index.xml)
 - Signs of Triviality 
         
 	- URL: [http://www.netmeister.org/blog/](http://www.netmeister.org/blog/)
@@ -751,8 +721,3 @@
 	- URL: [https://herman.bearblog.dev/](https://herman.bearblog.dev/)
         
 	- RSS: [https://herman.bearblog.dev/feed/?type=rss](https://herman.bearblog.dev/feed/?type=rss)
-- 雨山 
-        
-	- URL: [https://ameyama.com](https://ameyama.com)
-        
-	- RSS: [https://ameyama.com/blog/rss.xml](https://ameyama.com/blog/rss.xml)
